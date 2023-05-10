@@ -1,0 +1,6 @@
+,PackName,BuildingTypeOne,BuildingTypeTwo,BuildingTypeThree,BuildingTypeFour
+1,BP_City,House,Mansion,CityCenter,TownHall
+2,BP_Farm,Field,Farm,Windmill,Mint
+3,BP_Tempel,Shrine,Monastery,Tempel,Reservoir
+4,BP_Factory,Masonry,Factory,Storage,Sanctuary
+5,BP_Water,FishingHut,WaterFarm,Harbor,Haven

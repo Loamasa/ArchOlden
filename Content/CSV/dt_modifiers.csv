@@ -1,0 +1,95 @@
+,ModifierName,BuildingName,Stages,Rarity,DetectionRadious,Tree,Mineral,Crystal,Fish,House,Mansion,CityCenter,TownHall,Masonry,Factory,Storage,Mint,Field,Farm,Windmill,Reservoir,Shrine,Monastery,Tempel,Sanctuary,FishingHut,Harbor,Haven,WaterFarm,Remnant,Archive,Ark,Eternal
+1,MINING COMPLEX,Masonry,StageOne,R_Common,0,0,-6,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2,MINING COMPLEX,Masonry,StageOne,R_UnCommon,0,0,-4,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3,MINING COMPLEX,Masonry,StageOne,R_Rare,0,0,-2,0,0,0,0,0,0,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+4,MINING COMPLEX,Masonry,StageOne,R_Legendary,0,0,0,0,0,0,0,0,0,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+5,BOAT TRANSPORT,FishingHut,StageOne,R_Common,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+6,BOAT TRANSPORT,FishingHut,StageOne,R_UnCommon,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+7,BOAT TRANSPORT,FishingHut,StageOne,R_Rare,0,0,4,0,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8,BOAT TRANSPORT,FishingHut,StageOne,R_Legendary,0,0,4,0,0,0,0,0,0,4,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9,HERMIT,House,StageOne,R_Common,0,2,2,0,0,-2,0,-4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10,HERMIT,House,StageOne,R_UnCommon,0,2,4,0,0,-2,0,-4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,HERMIT,House,StageOne,R_Rare,0,4,4,0,0,-2,0,-4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+12,HERMIT,House,StageOne,R_Legendary,0,4,6,0,0,-2,0,-4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9,RAINMAKING,Field,StageOne,R_Common,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0
+10,RAINMAKING,Field,StageOne,R_UnCommon,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,8,0,0,0,0,0,0,0,0,0,0
+11,RAINMAKING,Field,StageOne,R_Rare,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,6,10,0,0,0,0,0,0,0,0,0
+12,RAINMAKING,Field,StageOne,R_Legendary,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,6,10,20,0,0,0,0,0,0,0,0
+9,HOLY WATER,FishingHut,StageOne,R_Common,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10,HOLY WATER,FishingHut,StageOne,R_UnCommon,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,HOLY WATER,FishingHut,StageOne,R_Rare,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+12,HOLY WATER,FishingHut,StageOne,R_Legendary,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+13,EARTH WORSHIP,Shrine,StageOne,R_Common,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+14,EARTH WORSHIP,Shrine,StageOne,R_UnCommon,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+15,EARTH WORSHIP,Shrine,StageOne,R_Rare,0,0,4,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+16,EARTH WORSHIP,Shrine,StageOne,R_Legendary,0,0,4,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+17,RICH NATURE,Mansion,StageOne,R_Common,0,2,0,0,0,0,0,-6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+18,RICH NATURE,Mansion,StageOne,R_UnCommon,0,4,0,0,0,0,0,-6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+19,RICH NATURE,Mansion,StageOne,R_Rare,0,4,2,0,0,0,0,-6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+20,RICH NATURE,Mansion,StageOne,R_Legendary,0,4,4,4,0,0,0,-6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+21,WATER FIELDS,Field,StageOne,R_Common,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0
+22,WATER FIELDS,Field,StageOne,R_UnCommon,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,2,0,0,0,0
+23,WATER FIELDS,Field,StageOne,R_Rare,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,8,0,2,0,0,0,0
+24,WATER FIELDS,Field,StageOne,R_Legendary,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,8,0,4,0,0,0,0
+25,MONOPOLY,Farm,StageTwo,R_Common,0,0,0,0,0,0,0,0,0,0,0,0,0,4,-12,0,0,0,0,0,0,0,0,0,2,0,0,0,0
+26,MONOPOLY,Farm,StageTwo,R_UnCommon,0,0,0,0,0,0,0,0,0,0,0,0,0,4,-12,0,0,0,0,0,0,0,0,0,4,0,0,0,0
+27,MONOPOLY,Farm,StageTwo,R_Rare,0,0,0,0,0,0,0,0,0,0,12,0,0,4,-12,0,0,0,0,0,0,0,0,0,4,0,0,0,0
+28,MONOPOLY,Farm,StageTwo,R_Legendary,0,0,0,0,0,0,0,0,0,0,12,12,0,4,-12,0,0,0,0,0,0,0,0,0,4,0,0,0,0
+29,INDUSTRIAL FARM ,Factory,StageTwo,R_Common,0,0,0,0,0,0,0,0,0,-10,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+30,INDUSTRIAL FARM ,Factory,StageTwo,R_UnCommon,0,0,0,0,0,0,0,0,0,-10,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+31,INDUSTRIAL FARM ,Factory,StageTwo,R_Rare,0,0,0,0,0,0,0,0,0,-10,0,0,0,8,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+32,INDUSTRIAL FARM ,Factory,StageTwo,R_Legendary,0,0,0,0,0,0,0,0,0,-10,0,0,0,8,8,12,0,0,0,0,0,0,0,0,0,0,0,0,0
+33,HOLY CITY,Monastery,StageTwo,R_Common,0,0,0,0,0,2,0,16,0,0,0,0,0,0,0,0,0,-8,0,0,0,0,0,0,0,0,0,0,0
+34,HOLY CITY,Monastery,StageTwo,R_UnCommon,0,0,0,0,0,2,0,20,0,0,0,0,0,0,0,0,0,-8,0,0,0,0,0,0,0,0,0,0,0
+35,HOLY CITY,Monastery,StageTwo,R_Rare,0,0,0,0,0,2,0,26,0,0,0,0,0,0,0,0,0,-8,0,0,0,0,0,0,0,0,0,0,0
+36,HOLY CITY,Monastery,StageTwo,R_Legendary,0,0,0,0,0,4,0,26,12,0,0,0,0,0,0,0,0,-8,0,0,0,0,0,0,0,0,0,0,0
+37,HOLY HARBOR,Harbor,StageThree,R_Common,0,0,0,0,0,0,0,0,0,-4,-8,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0
+38,HOLY HARBOR,Harbor,StageThree,R_UnCommon,0,0,0,8,0,0,0,0,0,0,-8,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0
+39,HOLY HARBOR,Harbor,StageThree,R_Rare,0,0,0,12,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0
+40,HOLY HARBOR,Harbor,StageThree,R_Legendary,0,0,0,12,0,0,0,0,0,0,0,0,0,0,0,0,0,8,20,0,0,0,0,0,0,0,0,0,0
+41,HYDRO MANURE,FishingHut,StageOne,R_Common,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+42,HYDRO MANURE,FishingHut,StageOne,R_UnCommon,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0
+43,HYDRO MANURE,FishingHut,StageOne,R_Rare,0,0,0,0,0,0,0,0,0,0,0,0,0,4,10,0,0,0,0,0,0,0,0,0,2,0,0,0,0
+44,HYDRO MANURE,FishingHut,StageOne,R_Legendary,0,0,0,0,0,0,0,0,0,0,0,0,0,4,10,12,0,0,0,0,0,0,0,0,2,0,0,0,0
+45,RELIGION,House,StageOne,R_Common,0,0,0,0,0,0,0,0,0,0,-6,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0
+46,RELIGION,House,StageOne,R_UnCommon,0,0,0,0,0,0,0,0,0,0,-6,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0
+47,RELIGION,House,StageOne,R_Rare,0,0,0,0,0,0,0,0,0,0,-6,0,0,0,0,0,0,0,8,8,0,0,0,0,0,0,0,0,0
+48,RELIGION,House,StageOne,R_Legendary,0,0,0,0,0,0,4,0,0,0,-6,0,0,0,0,0,0,0,8,12,0,0,0,0,0,0,0,0,0
+49,NEUTRALITY,Shrine,StageOne,R_Common,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+50,NEUTRALITY,Shrine,StageOne,R_UnCommon,0,0,0,0,0,0,0,0,0,4,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+51,NEUTRALITY,Shrine,StageOne,R_Rare,0,0,0,0,0,0,0,0,0,4,0,0,0,0,4,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+52,NEUTRALITY,Shrine,StageOne,R_Legendary,0,0,0,0,0,0,0,0,0,4,0,0,0,0,4,0,0,4,0,0,0,0,0,0,0,0,0,0,0
+53,URBAN MINE,Masonry,StageOne,R_Common,0,0,0,0,0,4,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+54,URBAN MINE,Masonry,StageOne,R_UnCommon,0,0,0,0,0,4,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+55,URBAN MINE,Masonry,StageOne,R_Rare,0,0,0,0,0,4,0,0,0,8,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+56,URBAN MINE,Masonry,StageOne,R_Legendary,0,0,0,0,0,4,0,20,0,8,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+53,GREEN WAVE,Mansion,StageOne,R_Common,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+54,GREEN WAVE,Mansion,StageOne,R_UnCommon,0,0,0,0,0,0,0,0,0,0,0,0,0,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+55,GREEN WAVE,Mansion,StageOne,R_Rare,0,0,0,0,0,0,0,0,0,0,0,0,0,4,4,6,0,0,0,0,0,0,0,0,0,0,0,0,0
+56,GREEN WAVE,Mansion,StageOne,R_Legendary,0,0,0,0,0,0,0,0,0,0,0,0,0,6,4,6,6,0,0,0,0,0,0,0,0,0,0,0,0
+57,URBANIZATION,Field,StageOne,R_Common,0,0,0,0,0,4,0,0,0,0,0,0,0,-2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+58,URBANIZATION,Field,StageOne,R_UnCommon,0,0,0,0,0,4,0,12,0,0,0,0,0,-2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+59,URBANIZATION,Field,StageOne,R_Rare,0,0,0,0,0,4,0,12,12,0,0,0,0,-2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+60,URBANIZATION,Field,StageOne,R_Legendary,0,0,0,0,0,4,4,12,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+61,SUMMIT FOLKS,CityCenter,StageThree,R_Common,0,0,2,2,-4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+62,SUMMIT FOLKS,CityCenter,StageThree,R_UnCommon,0,0,4,2,-2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+63,SUMMIT FOLKS,CityCenter,StageThree,R_Rare,0,2,4,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+64,SUMMIT FOLKS,CityCenter,StageThree,R_Legendary,0,4,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+61,HYDRATION,WaterFarm,StageThree,R_Common,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+62,HYDRATION,WaterFarm,StageThree,R_UnCommon,0,0,0,0,0,2,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+63,HYDRATION,WaterFarm,StageThree,R_Rare,0,0,0,0,0,4,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+63,HYDRATION,WaterFarm,StageThree,R_Legendary,0,0,0,0,0,4,0,10,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+61,BLESSING,Storage,StageThree,R_Common,0,0,0,0,0,0,0,0,0,0,0,-20,0,0,0,0,0,0,12,0,0,0,0,0,0,0,0,0,0
+62,BLESSING,Storage,StageThree,R_UnCommon,0,0,0,0,0,0,0,0,0,0,0,-20,0,0,0,0,0,0,12,16,0,0,0,0,0,0,0,0,0
+63,BLESSING,Storage,StageThree,R_Rare,0,0,0,0,0,0,0,0,0,0,0,-20,0,0,0,0,0,4,12,16,0,0,0,0,0,0,0,0,0
+64,BLESSING,Storage,StageThree,R_Legendary,0,0,0,0,0,0,0,0,0,0,0,-20,0,0,0,0,0,4,20,24,0,0,0,0,0,0,0,0,0
+61,WATER MILL,Windmill,StageThree,R_Common,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+62,WATER MILL,Windmill,StageThree,R_UnCommon,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0
+63,WATER MILL,Windmill,StageThree,R_Rare,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,2,0,0,0,0
+64,WATER MILL,Windmill,StageThree,R_Legendary,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,4,0,0,0,0
+61,GROUNDING,Tempel,StageThree,R_Common,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+62,GROUNDING,Tempel,StageThree,R_UnCommon,0,4,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+63,GROUNDING,Tempel,StageThree,R_Rare,0,4,0,6,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+64,GROUNDING,Tempel,StageThree,R_Legendary,0,4,4,12,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+65,None,House,StageOne,R_Common,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+66,TestModifier,House,StageOne,R_Common,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1

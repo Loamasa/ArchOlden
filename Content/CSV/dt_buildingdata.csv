@@ -1,0 +1,29 @@
+,BuildingName,PlacmentProfile,DetectionRadious,AvrageScore,BuildingStage,Pack,Rarity,Tree,Mineral,Crystal,Fish,House,Mansion,CityCenter,TownHall,Masonry,Factory,Storage,Mint,Field,Farm,Windmill,Reservoir,Shrine,Monastery,Tempel,Sanctuary,FishingHut,Harbor,Haven,WaterFarm,Remnant,Archive,Ark,Eternal
+1,Mineral,GrassLands,0,0,StageSix,Environment,Common,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2,Fish,WaterOnly,0,0,StageSix,Environment,Common,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3,Tree,GrassLands,20,0,StageSix,Environment,Common,-4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+4,Crystal,GrassAndFrost,0,0,StageSix,Environment,Common,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+5,CityCenter,GrassAndFrost,140,15,StageFour,City,Legendary,2,2,0,6,0,0,-18,-18,0,2,0,0,2,2,2,2,0,0,0,-4,0,0,0,0,0,0,0,0
+6,House,GrassAndFrost,60,6,StageOne,City,Common,0,0,0,2,1,-4,4,8,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0
+7,Mansion,GrassAndFrost,40,8,StageOne,City,Uncommon,0,0,0,0,-2,2,6,6,0,-6,-6,0,0,0,-6,-6,6,0,8,0,0,0,0,0,0,0,0,0
+8,Masonry,FrostAndRock,20,9,StageOne,Factory,Uncommon,0,8,0,0,0,0,0,0,-8,8,0,12,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0
+4,Factory,GrassFrostAndRock,40,20,StageTwo,Factory,Rare,0,0,0,0,0,0,20,0,10,-14,0,0,-4,12,0,0,0,-6,-12,-8,0,12,0,0,0,0,0,0
+10,Storage,GrassFrostAndRock,120,30,StageThree,Factory,Legendary,0,0,0,0,0,0,0,0,4,14,-20,0,0,12,20,-20,0,-12,-16,-20,0,20,20,0,0,0,0,0
+11,Windmill,GrassAndRock,120,30,StageThree,Farm,Legendary,0,0,0,0,0,0,0,0,0,0,8,0,8,0,-30,0,0,-4,-6,-20,0,0,0,0,0,0,0,0
+12,Field,GrassLands,40,8,StageOne,Farm,Common,4,0,0,0,0,0,0,0,0,-4,0,0,2,0,0,12,0,0,0,0,0,0,12,6,0,0,0,0
+13,Farm,GrassLands,80,12,StageTwo,Farm,Uncommon,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,4,0,-6,-4,-12,0,0,0,4,0,0,0,0
+14,Tempel,GrassFrostAndRock,100,20,StageThree,Tempel,Legendary,0,0,0,0,2,6,20,-20,0,0,0,0,0,0,0,0,0,6,-20,-12,0,0,0,0,0,10,0,0
+15,Shrine,GrassFrostAndRock,80,6,StageOne,Tempel,Uncommon,2,0,6,2,0,0,0,0,-4,0,0,0,0,-4,0,0,-6,0,0,12,0,0,12,0,0,10,0,0
+16,Monastery,GrassFrostAndRock,100,16,StageTwo,Tempel,Legendary,0,0,0,0,0,6,0,8,0,-4,-6,0,0,0,0,0,8,-16,0,-8,0,0,0,0,0,10,0,0
+17,FishingHut,WaterOnly,60,6,StageOne,Water ,Uncommon,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,8,0,0,0,0,0
+18,Harbor,WaterOnly,60,14,StageThree,Water ,Rare,0,0,0,0,0,0,20,0,4,8,10,12,0,0,0,0,0,0,0,0,0,-12,0,8,0,0,0,0
+19,Haven,WaterOnly,140,20,StageFour,Water ,Rare,0,0,10,0,0,0,0,16,0,0,0,16,0,0,0,0,8,0,0,0,0,0,-26,0,0,0,0,0
+20,TownHall,GrassLands,100,30,StageThree,City,Legendary,0,0,0,0,8,8,0,-22,0,0,-24,24,0,0,0,0,0,0,-20,0,0,0,0,0,18,0,0,0
+21,Mint,FrostAndRock,60,30,StageFour,Factory,Legendary,0,18,0,0,0,0,0,24,0,0,24,-24,0,0,0,0,0,0,24,-8,0,0,0,0,0,0,0,0
+22,Reservoir,GrassLands,60,30,StageFour,Farm,Legendary,10,10,0,10,0,0,0,0,0,0,-20,0,10,0,0,0,0,0,0,0,0,20,0,10,0,0,0,0
+23,Sanctuary,GrassFrostAndRock,140,30,StageFour,Tempel,Legendary,7,7,7,7,0,0,-3,-3,-3,-3,-3,-3,0,0,0,0,-3,-3,-3,-60,0,0,0,0,10,20,30,40
+24,WaterFarm,WaterOnly,80,10,StageTwo,Water ,Uncommon,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2
+25,Remnant,GrassFrostAndRock,100,14,StageOne,Ancient,Common,0,0,0,0,4,0,-20,0,4,0,0,0,4,0,0,0,4,0,0,0,4,0,0,0,-20,0,0,2
+26,Archive,GrassFrostAndRock,80,20,StageTwo,Ancient,Uncommon,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20,20,20,20,0,0,0,0,0,0,0,2
+27,Ark,GrassFrostAndRock,160,40,StageThree,Ancient,Rare,0,0,0,0,7,0,0,0,7,0,0,0,7,0,0,0,7,0,0,0,7,0,0,0,7,0,0,2
+28,Eternal,GrassFrostAndRock,400,80,StageFour,Ancient,Legendary,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2

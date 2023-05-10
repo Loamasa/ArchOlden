@@ -1,0 +1,8 @@
+,PlacmentProfile,Grass,Rock,Water,Frost
+1,PP_GrassLands,1,0,0,0
+2,PP_RocksOnly,0,1,0,0
+3,PP_GrassAndRock,1,1,0,0
+4,PP_WaterOnly,0,0,1,0
+5,PP_GrassAndFrost,1,0,0,1
+6,PP_GrassFrostAndRock,1,1,0,1
+7,PP_FrostAndRock,0,1,0,1

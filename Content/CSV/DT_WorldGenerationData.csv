@@ -1,0 +1,5 @@
+,WorldBlockType,BlockMin,BlockMax,NatrualResourcesType,NaturalResourcesMin,NaturalResourcesMax
+0,Grass,0.35,0.55,Tree,0.22,0.25
+1,Frost,0.6,0.95,Crystal,0.2,0.3
+2,Rock,0.1,0.15,Mineral,0.5,0.6
+3,Water,0.05,0.15,Fish,0.4,0.55

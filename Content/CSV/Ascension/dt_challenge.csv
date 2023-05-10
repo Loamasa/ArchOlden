@@ -1,0 +1,6 @@
+,ChallengeName,PointWin,Points,PointMultiplier,ArtifactWin,WinArtifactLevel,ArtifactMultiplier,FindWinArtifact,GameBar,GameBarStartAddition,GameBarMultiplier,TurnBeforeArtifactIsland
+1,PointWin,TRUE,500,0.2,FALSE,0,1,FALSE,TRUE,12,4,2
+2,ArtifactWin,FALSE,0,0,TRUE,250,1.5,FALSE,TRUE,12,4,2
+3,BigPointWin,TRUE,1000,0.1,FALSE,0,1,FALSE,TRUE,12,4,2
+4,PointTutorial,TRUE,250,0,FALSE,0,0,FALSE,TRUE,12,6,4
+5,ArtifactTutorial,FALSE,0,0,TRUE,40,0,TRUE,TRUE,12,6,2

@@ -1,0 +1,11 @@
+,Name,point1,point2,point3,point4,Gamebar1,gamebar2,gamebar3,gamebar4,artifactT,artifactF
+1,Point1,0,0,0,0,0,0,0,1,1,1
+2,Point2,0,0,0,0,0,0,0,1,1,1
+3,Point3,0,0,0,0,0,0,0,1,1,1
+4,Point4,0,0,0,0,0,0,1,1,1,1
+5,Gamebar1,0,0,0,1,0,0,0,0,1,1
+6,Gamebar2,0,0,0,1,0,0,0,0,1,1
+7,Gamebar3,0,0,0,1,0,0,0,0,1,1
+8,Gamebar4,0,0,1,1,0,0,0,0,1,1
+9,artifactT,1,1,1,1,1,1,1,1,1,1
+10,artifactF,1,1,1,1,1,1,1,1,1,1

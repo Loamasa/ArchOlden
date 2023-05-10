@@ -1,0 +1,5 @@
+,WorldBlockType,BlockMin,BlockMax,NatrualResourcesType,NaturalResourcesMin,NaturalResourcesMax,BuildingSqueareSize
+0,Grass,0.1,0.2,Tree,0.25,0.35,OneBlock
+1,Frost,0.9,1,Crystal,0.15,0.25,FourBlock
+2,Rock,0.15,0.3,Mineral,0.3,0.4,OneBlock
+3,Water,0.22,0.26,Fish,0.35,0.45,OneBlock
