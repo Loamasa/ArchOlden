@@ -33,4 +33,8 @@ ArchOlden is a puzzle builder with rogue-like mechanics, offering an easy and re
 
 ## Portfolio Pice Two: Draw App - A draw app
 
-#TODO: lägg in den där draw appen
+A simple draw application built with Kotlin in Andriod Studio. The user can change the brush size and change color.
+
+[View GitHub](https://github.com/Loamasa/DrawApplication)
+
+`Kotlin` `Andriod Studio`
