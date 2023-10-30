@@ -20,8 +20,13 @@ ArchOlden is a puzzle builder with rogue-like mechanics, offering an easy and re
 
 [View Steam Page](https://store.steampowered.com/app/2195520/ArchOlden/)
 
-[View Github ] #TODO
 
+
+### My participation
+
+**I am the founder of Golden Possum, focusing on all technical**, but also production, Game Design and Business development. I pitch, attend conferences, budget, planning, recruitment, and long-term development. We develop in Unreal engine. We were a team of three; the others helped with game art and sound. 
+
+[View Github Source](https://github.com/Loamasa/ArchOlden/tree/179bc605a70ac4f2fcc16e898d8166bd8e436389/Source/Mountaineers)
 
 
 
