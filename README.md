@@ -1,6 +1,6 @@
 # Pål Schakonat - Full Stack App Developer
 
-I am a game developer who is looking to transition in to the regular IT-Industry. My experiences in the game industry have been as a technically-oriented game designer. 
+I am a game developer who is looking to transition in to the regular IT-Industry. As a technically-oriented game designer, I have experience in both the UX apsects and technical implementation of an product.
 
 ## About Me
 
@@ -16,11 +16,11 @@ I shipped two games at the VR game studio, Fast Travel Games. **I also developed
 
 ArchOlden is a puzzle builder with rogue-like mechanics, offering an easy and relaxing experience. Start with a procedurally generated mountain and draw buildings to be placed on the summit. Plan your city to earn the maximum points from your buildings. As you play, you'll unlock new buildings and you expand your summit. Completing a challenge ascend you to an even harder challenge, but you will be rewarded with divine gifts. Test your puzzle-solving skills as the gods judge your worthiness to ascend. 
 
+[View Trailer](https://www.youtube.com/watch?v=zg6GeZ8eiUg&feature=youtu.be)
 
+[View Steam Page](https://store.steampowered.com/app/2195520/ArchOlden/)
 
-
-
-
+[View Github ] #TODO
 
 
 
