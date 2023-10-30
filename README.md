@@ -10,7 +10,7 @@ I shipped two games at the VR game studio, Fast Travel Games. **I also developed
 
 ## Portfolio pice: ArchOlden - A game developed by my studio Golden Possum
 
-[![Alt text](https://img.itch.zone/aW1nLzExMzA0Nzg3LmpwZw==/original/jAtj4b.jpg)]
+![Alt text](https://img.itch.zone/aW1nLzExMzA0Nzg3LmpwZw==/original/jAtj4b.jpg)
 
 ### Discripton
 
