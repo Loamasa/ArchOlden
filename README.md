@@ -4,7 +4,7 @@ I am a game developer who is looking to transition in to the regular IT-Industry
 
 ## About Me
 
-I shipped two games at the VR game studio, Fast Travel Games. **I also developed my own game where I handled everything from C++, Visual Scripting, production, pitching, and much more.** I received great feedback, but the current recession caused our investors at Xsolla to back off. Instead of updating my portfolio to get a job in the game industry, I made the decision to transition to the regular IT industry.</p>
+I shipped two games at the VR game studio, Fast Travel Games. **I also developed my own game where I worked with C++, Visual Scripting, production, pitching, and much more.** I received great feedback, but the current recession caused our investors at Xsolla to back off. Instead of updating my portfolio to get a job in the game industry, I made the decision to transition to the regular IT industry.</p>
 
 **I got my exam at The Game Assembly, which is ranked as one of the top schools in the world.** We learned Agile, multidisciplinary teamwork, and built 8 projects during 2 years. I have completed a leadership course for digital management (as preparation for running my own company) and participated in the Start-Program at Ideon Science Park BUILD. **I have experience with both C# and C++, as well as visual scripting in game engines**. I've developed numerous products with agile, cross-disciplinary teams from start to finish, both in the industry and in my own studio.</p>
 
