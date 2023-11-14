@@ -1,4 +1,4 @@
-# Pål Schakonat - Full Stack App Developer
+# Pål Schakonat 
 
 I am a game developer who is looking to transition in to the regular IT-Industry. As a technically-oriented game designer, I have experience in both the UX apsects and technical implementation of an product.
 
